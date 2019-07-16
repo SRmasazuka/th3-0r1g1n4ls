@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
+  
+<channel>
+<name>[B]### [COLOR yellow]ASSISTA AO TRAILER DA SÉRIE[/COLOR] ###[/B]</name>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/th3-0r1g1n4ls/master/tr4l13r</externallink>
+<thumbnail>https://i.ytimg.com/vi/K57Q7f6FHuc/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/K57Q7f6FHuc/maxresdefault.jpg</fanart>
+</channel>
 
 <channel>
 <name>[B][COLOR blue]::::[/COLOR] 1ª TEMPORADA (THE ORIGINALS) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
