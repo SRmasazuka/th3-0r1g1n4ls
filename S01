@@ -1,7 +1,155 @@
-<item>
 <?xml version="1.0" encoding="utf-8"?>
-<title>[COLOR blue]Episódio 01[/COLOR] - Wanheda (Parte 1)</title>
+
+<item>
+<title>[COLOR blue]Episódio 01[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12i2z89-6jc0F5GXIg5D8Me48OUWJD1pZ/view</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 02[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YHobj8kKDNJLnWuQShQ4KpC1AMVhJRzs/view?usp=sharing</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 03[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SaEGJQ5unfcQDNxDPcUIBsdEDzkugCeo/view?usp=sharing</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 04[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EtSzgCiLqq_nvTujhyLDqqfgURZTJC67/view?usp=sharing</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 05[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ls-UGY-S7r2KTYKP4nTY-XOwWRg6lJ3k/view?usp=sharing</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 06[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SsBdmq3mfLlhFoJrrfWyz7ihtAGdAj9e/view?usp=sharing</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 07[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sHylhHLUMGn8MyHSLeh0EtUOM1PvVodY/view?usp=sharing</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 08[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bVNllbPKV8PhXBxkrOfp4OS6vqrWd8OL/view?usp=sharing</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 09[/COLOR] - </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 10[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 11[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 12[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódios 13[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 14[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 15[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 16[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 17[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 18[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 19[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 20[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 21[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Episódio 22[/COLOR] - </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/77/The_Originals_S1_Poster.jpg/220px-The_Originals_S1_Poster.jpg</thumbnail>
+<fanart>https://imgix.bustle.com/rehost/2016/9/13/e0bf1b76-c389-4ab7-9ed6-d955b0d3e4d2.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70</fanart>
 </item>
